@@ -11,7 +11,7 @@
  * numbers.
  *
  *   var items = ['a', 'b', 'c', 'd', 'e']; 
- *   var jumble = Jumbler();
+ *   var jumble = Jumbler(items);
  *
  *   for(var y=0; y<items.length; ++y) {
  *     var row = [];
